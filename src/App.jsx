@@ -1,5 +1,7 @@
 import {createBrowserRouter , RouterProvider} from "react-router-dom";
 import './App.css'
+import HomePage from "./components/HomePage";
+import VideoPage from "./components/VideoPage";
 
 function App() {
   // const [count, setCount] = useState(0)
