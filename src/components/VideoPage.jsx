@@ -28,7 +28,7 @@ const VideoPage = () => {
           },
         ],
         scenario: {
-         mode: ZegoUIKitPrebuilt.VideoConference,
+         mode: ZegoUIKitPrebuilt.OneONoneCall,
         },
    });
   };
